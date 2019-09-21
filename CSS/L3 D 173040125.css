@@ -1,0 +1,45 @@
+body{
+	background-image: url(../img/background.png);
+	background-repeat:repeat-x;
+	background-color: white;
+	font-family: "century gothic";
+	}
+h1{
+	font-family: "comic sans ms";
+	font-size: 60px;
+	color:darkblue;
+	text-align: center;
+}
+h4{
+	text-align: right;
+	font-family: arial;
+	font-style: italic;
+	text-align: center;
+}
+p{
+	text-indent: 50px;
+	text-align: justify;
+	font-family: verdana;
+}
+h3{
+	font-variant: small-caps;
+	text-align: center;
+}
+.p1{
+	color: salmon;
+	text-align: center;
+}
+#p2{
+	line-height: 20px;
+	text-align:center; 
+	color:darkred;
+}
+a{
+	text-decoration:none;
+	color: blue;
+	font-weight:bold;
+}
+a:hover{
+	color: red;
+	text-decoration:underline;
+}
